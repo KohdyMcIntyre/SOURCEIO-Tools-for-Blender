@@ -10,6 +10,7 @@ Original project: https://github.com/REDxEYE/SourceIO (MIT License)
 3. Blender > Edit > Preferences > Add-ons > enable SourceIO.
 
 ---
+<img width="1920" height="1080" alt="Screenshot (604)" src="https://github.com/user-attachments/assets/ee21d558-dcb4-4e1b-9d21-eb91591a91f8" />
 
 [![Blender](https://img.shields.io/badge/Blender->=_4.0-orange?logo=blender&logoColor=white)](https://www.blender.org/download)
 [![Download](https://img.shields.io/github/downloads/REDxEYE/SourceIO/total?label=Download&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij4KCTxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMTEuMiAwYS44LjggMCAwIDAtLjguOHYxMS40TDcuMjYgOS40NGEuODAzLjgwMyAwIDAgMC0xLjEzLjA3NGwtMS4wNSAxLjJhLjguOCAwIDAgMCAuMDczIDEuMTNsNi4zMyA1LjU0YS43OTUuNzk1IDAgMCAwIDEuMDUgMGw2LjMyLTUuNTRhLjguOCAwIDAgMCAuMDc0LTEuMTNsLTEuMDUtMS4yYS44MDQuODA0IDAgMCAwLTEuMTMtLjA3NGwtMy4xNCAyLjc2Vi44YS44LjggMCAwIDAtLjgtLjh6bS04IDIwLjhhLjguOCAwIDAgMC0uOC44djEuNmEuOC44IDAgMCAwIC44LjhoMTcuNmEuOC44IDAgMCAwIC44LS44di0xLjZhLjguOCAwIDAgMC0uOC0uOHoiPjwvcGF0aD4KPC9zdmc+Cg==)](https://github.com/REDxEYE/SourceIO/archive/refs/heads/master.zip)
