@@ -1,4 +1,4 @@
-# SourceIO (Blender 4.0 fix)
+# SourceIO (Blender 5+ fix)
 
 Fixed build of REDxEYE's SourceIO addon for Blender 4.0 (Python 3.10). Fixes `ImportError: cannot import name 'StrEnum' from 'enum'`.
 
